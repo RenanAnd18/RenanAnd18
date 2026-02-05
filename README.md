@@ -7,7 +7,7 @@ Atualmente uso o **Azure DevOps** para gestão de backlog, acompanhamento de ent
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanAnd18&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAnd18&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAnd18&layout=compact&theme=merko)
 
 ## Tecnologias e ferramentas que utilizo no dia a dia:
 
