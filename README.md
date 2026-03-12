@@ -40,7 +40,9 @@ No dia a dia, utilizo o **Azure DevOps** para:
 
 ### 📌 Interesses atuais
 
-- Product Ownership  
+- Product Ownership
+- Scrum Master
+- IA  
 - Métricas de Produto e Times Ágeis  
 - Experiência do Usuário (UX)  
 - Sistemas ERP e integrações  
