@@ -1,14 +1,14 @@
 ### 👋 Olá, eu sou o Renan Andrade
 
-Sou profissional da área de tecnologia com experiência em **QA, Produto e sistemas ERP**, atuando com **metodologias ágeis** e foco em **entrega de valor ao negócio**.
+Sou profissional de tecnologia com mais de 10 anos de experiência, atuando como **Product Owner** em sistemas ERP fiscais e e-commerce. Background em QA e Suporte que me permite atuar próximo ao time de desenvolvimento, traduzindo regras de negócio em entregas de valor.
 
-Atualmente estou em **transição para Product Owner Jr**, com background técnico que me permite atuar de forma próxima ao time de desenvolvimento, facilitando a comunicação entre **negócio, produto e tecnologia**.
+Diferencial: aplico **IA generativa (Claude Code)** no dia a dia de produto — criando ferramentas que automatizam processos críticos e trazem inteligência regulatória para o roadmap.
 
 No dia a dia, utilizo o **Azure DevOps** para:
-- Gestão e priorização de backlog  
-- Escrita e refinamento de **User Stories**  
-- Definição de **critérios de aceite (DoD / DoR)**  
-- Acompanhamento de entregas e métricas  
+- Gestão e priorização de backlog
+- Escrita e refinamento de **User Stories**
+- Definição de **critérios de aceite (DoD / DoR)**
+- Acompanhamento de entregas e métricas
 - Organização do trabalho em times ágeis (Scrum / Kanban)
 
 ---
@@ -30,10 +30,10 @@ No dia a dia, utilizo o **Azure DevOps** para:
 ### 🛠️ Tecnologias e ferramentas que utilizo no dia a dia
 
 <div style="display: inline-block"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </div>
 
 ---
@@ -41,10 +41,8 @@ No dia a dia, utilizo o **Azure DevOps** para:
 ### 📌 Interesses atuais
 
 - Product Ownership
-- Scrum Master
-- IA  
-- Métricas de Produto e Times Ágeis  
-- Experiência do Usuário (UX)  
-- Sistemas ERP e integrações  
+- Product Management
+- IA aplicada a Produto
+- Métricas de Produto e Times Ágeis
+- Sistemas ERP e integrações fiscais
 - Melhoria contínua de processos
-
